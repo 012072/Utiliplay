@@ -12,11 +12,13 @@ ul {
   padding: 0;
   width: 200px;
   background-color: #0099ff;
-  border: 1px solid #555
+  border: 1px solid #555;
+   
+  
 }
 li {
   display: inline;
-  text-align: center;
+  text-align:center
   border-right: 1px solid #555;
 }
 li a{
