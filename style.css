@@ -17,7 +17,7 @@ ul {
   display: inline;
 }
 li {
-  
+  border-right: 1px solid #555;
   text-align: center;
   border-right: 1px solid #555;
 }
