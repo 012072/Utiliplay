@@ -11,7 +11,13 @@ ul {
   margin: 0;
   padding: 0;
   width: 200px;
-  background-color: #f1f1f1;
+  background-color: #0099ff;
+  border: 1px solid #555
+}
+li {
+  display: inline;
+  text-align: center;
+  border-right: 1px solid #555;
 }
 li a{
   display: block;
