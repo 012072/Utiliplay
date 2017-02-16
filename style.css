@@ -17,12 +17,13 @@ ul {
   display: inline;
 }
 li {
+ display:inline;
   border-right: 1px solid #555;
   text-align: center;
   border-right: 1px solid #555;
 }
 li a{
-  display: block;
+  display: inline;
   color: #0400ff;
   text-decoration: none;
   padding: 8px 16px; 
