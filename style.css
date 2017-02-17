@@ -12,15 +12,15 @@ ul {
   padding: 0;
   width: 200px;
   background-color: #828282;
-  border: 1px solid #555;
+  border: 1px solid #000000;
   float: right;
   display: inline;
 }
 li {
  display:inline;
-  border-right: 1px solid #555;
+  
   text-align: center;
-  border-right: 1px solid #555;
+  border-right: 1px solid #000000;
 }
 li a{
   display: inline;
@@ -30,6 +30,7 @@ li a{
 }
 .active{
   background-color: #0099ff;
+  color: #0400ff;
 }
 li:last-child{
 border-right: none;
