@@ -30,7 +30,7 @@ li a{
 }
 .active{
   background-color: #0099ff;
-  color: #0400ff;
+  color: #000000;
 }
 li:last-child{
 border-right: none;
