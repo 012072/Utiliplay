@@ -30,6 +30,9 @@ li a{
 }
 .active{
   background-color: #0099ff;
+  
+}
+.active a{
   color: #000000;
 }
 li:last-child{
