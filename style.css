@@ -35,6 +35,5 @@ li a{
 .active a{
   color: #000000;
 }
-li:last-child{
-border-right: none;
-}
+
+
