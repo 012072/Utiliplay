@@ -22,7 +22,7 @@ li {
   border-right: 1px solid #000000;
   float: right;
 }
-a{
+li a{
   display: block;
   color: #0400ff;
   text-decoration: none;
