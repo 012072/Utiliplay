@@ -17,7 +17,7 @@ ul {
   display: inline;
 }
 li {
-  display:inline;
+  display:block;
   text-align: center;
   border-right: 1px solid #000000;
   float: right;
@@ -28,11 +28,11 @@ a{
   text-decoration: none;
  
 }
-li .active{
+ .active{
   background-color: #0099ff;
   
 }
-li .active a{
+.active a{
   color: #000000;
 }
 
