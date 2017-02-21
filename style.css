@@ -13,13 +13,14 @@ ul {
   width: 60px;
   background-color: #828282;
   border: 1px solid #000000;
-  float: right;
+  
   display: inline;
 }
 li {
   display:inline;
   text-align: center;
   border-right: 1px solid #000000;
+  float: right;
 }
 li a{
   display: inline;
