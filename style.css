@@ -22,8 +22,8 @@ li {
   border-right: 1px solid #000000;
   float: right;
 }
-li a{
-  display: inline;
+a{
+  display: block;
   color: #0400ff;
   text-decoration: none;
  
