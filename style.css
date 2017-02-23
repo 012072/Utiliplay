@@ -6,10 +6,12 @@ body {
 h1 {
   font-family: cursive;
   text-align: center;
+  color: white;
 }
 p {
   text-align: center;
   font-family: cursive;
+  color:white;
 }
 ul {
   list-style-type: none;
