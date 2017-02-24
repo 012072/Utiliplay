@@ -76,3 +76,9 @@ li a{
     -o-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
 }
+.btn-success {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #5cb85c;
+}
+
