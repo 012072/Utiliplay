@@ -44,4 +44,14 @@ li a{
   color: #000000;
 }
 
-
+.jumbotron {
+    text-align: center;
+    border-bottom: .05rem solid #e5e5e5;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    background-image: url(coders unitebg.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    opacity: 1;
+    background-size: cover;
+}
