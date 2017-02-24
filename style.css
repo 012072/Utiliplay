@@ -93,4 +93,6 @@ li a{
     background-size: cover;
 }
 
-
+.right-collum{
+  float: left;
+}
