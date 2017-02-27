@@ -50,7 +50,11 @@ li a{
     background-repeat: no-repeat;
     background-position: bottom;
     opacity: 1;
-    background-size: cover;
+    background-size: 200px 1000px;
+  border:2px solid;
+    border-radius:30px;  
+      border-color:#00BFFF;
+
 }
 .Us .btn {
     padding: .75rem 1.5rem;
@@ -90,9 +94,9 @@ li a{
     background-repeat: no-repeat;
     background-position: bottom;
     opacity: 1;
-    background-size: cover;
+    background-size: 200px 1000px;
     border:2px solid;
-    border-radius:100px;  
+    border-radius:30px;  
       border-color:#00BFFF;
 }
 
