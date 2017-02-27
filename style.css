@@ -92,7 +92,8 @@ li a{
     opacity: 1;
     background-size: cover;
     border:2px solid;
-    border-radius:100px:  
+    border-radius:100px;  
+      border-color:#00BFFF;
 }
 
 .right-collum{
