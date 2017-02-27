@@ -5,6 +5,9 @@ h1 {
   text-align: center;
  
 }
+li a .last{
+border-right: none;
+}
 p {
   text-align: center;
   font-family: cursive;
