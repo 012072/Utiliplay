@@ -2,7 +2,7 @@
 
 h1 {
   font-family: cursive;
-  text-align: center;
+  text-align: left
  
 }
 li a .last{
@@ -104,5 +104,5 @@ li a{
 }
 
 .right-collum{
-  float: right;
+  float: left;
 }
