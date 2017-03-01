@@ -1,7 +1,8 @@
 img{
   border:2px solid;
   border-radius: 30px;
-
+position: absolute;
+  right:300;
   border-color: #688D99;
 
 }
