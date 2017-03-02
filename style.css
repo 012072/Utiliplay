@@ -117,7 +117,13 @@ line-height: 30px;
 line-height: 30px;
 }
 
-.right-collum{
+.right-collum h4{
+  float: left;
+  position: absolute;
+  top:480px;
+  line-height: 40px;
+}
+.right-collum p{
   float: left;
   position: absolute;
   top:480px;
