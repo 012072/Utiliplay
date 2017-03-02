@@ -125,5 +125,8 @@ line-height: 30px;
 .right-collum img{
   border: 2px solid;
   border-color: #4593AD;
-  line-height: 40px;
+  
+  position:absolute;
+  top: 500px;
+    line-height: 40px;
 }
