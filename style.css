@@ -10,8 +10,7 @@ position: absolute;
 h1 {
   font-family: cursive;
   text-align: left;
-    position: absolute;
-  top: 40px;
+    line-height: 40px;
  
 }
 li a .last{
@@ -69,7 +68,7 @@ li a{
   border:2px solid;
     border-radius:30px;  
       border-color:#00BFFF;
-line-height: 30px
+line-height: 30px;
 
 }
 .Us .btn {
