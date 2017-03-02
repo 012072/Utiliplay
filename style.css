@@ -2,7 +2,7 @@ img{
   border:2px solid;
   border-radius: 30px;
 position: absolute;
-  right:400px;
+  float:center;
   border-color: #688D99;
   line-height: 50px;
 
