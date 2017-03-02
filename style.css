@@ -20,6 +20,7 @@ border-right: none;
 p {
   text-align: center;
   font-family:  courier, monospace;
+  
 
 }
 ul {
@@ -68,6 +69,8 @@ li a{
   border:2px solid;
     border-radius:30px;  
       border-color:#00BFFF;
+  position:absolute;
+  top:80px;
 
 }
 .Us .btn {
@@ -112,6 +115,8 @@ li a{
     border:2px solid;
     border-radius:30px;  
       border-color:#00BFFF;
+  position: absolute;
+  top:80px;
 }
 
 .right-collum{
