@@ -119,13 +119,14 @@ line-height: 30px;
 
 .right-collum{
   float: left;
-
+  position: absolute;
+  top:480px;
   line-height: 40px;
 }
 .right-collum img{
   border: 2px solid;
   border-color: #4593AD;
-  
+  float: right;  
   position:absolute;
   top: 500px;
     line-height: 40px;
