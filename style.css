@@ -118,13 +118,16 @@ line-height: 30px;
 }
 
 .imagees{
-  line-height: 100px;
+position: absolute;
+top:500;
 }
 .imageees{
-  line-height: 100px;
+  position: absolute;
+top:600;
 }
 .imageeees{
-line-height: 100px;
+position: absolute;
+top:700;
 }
 .right-collum {
   float: left;
@@ -141,12 +144,4 @@ line-height: 100px;
   
    
 }
-.imagees{
-  line-height: 100px;
-}
-.imageees{
-  line-height: 100px;
-}
-.imageeees{
-line-height: 100px;
-}
+
