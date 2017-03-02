@@ -7,8 +7,11 @@ position: absolute;
   line-height: 50px;
 
 }
-.app-icon{}
-
+.app-icon{
+  width: 325px;
+  height:325px;
+  
+}
 h1 {
   font-family: cursive;
   text-align: left;
