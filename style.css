@@ -9,7 +9,9 @@ position: absolute;
 
 h1 {
   font-family: cursive;
-  text-align: left
+  text-align: left;
+    position: absolute;
+  top: 40px;
  
 }
 li a .last{
