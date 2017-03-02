@@ -69,8 +69,7 @@ li a{
   border:2px solid;
     border-radius:30px;  
       border-color:#00BFFF;
-position:absolute;
-  top:80px;
+line-height: 30px
 
 }
 .Us .btn {
@@ -115,8 +114,7 @@ position:absolute;
     border:2px solid;
     border-radius:30px;  
       border-color:#00BFFF;
-position: absolute;
-  top:80px;
+line-height: 30px;
 }
 
 .right-collum{
