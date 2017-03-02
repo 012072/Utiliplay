@@ -117,17 +117,22 @@ line-height: 30px;
 line-height: 30px;
 }
 
-.right-collum h4{
+.imagees{
+  line-height: 100px;
+}
+.imageees{
+  line-height: 100px;
+}
+.imageeees{
+line-height: 100px;
+}
+.right-collum {
   float: left;
   position: absolute;
   top:480px;
   line-height: 40px;
 }
-.right-collum p{
-  float: left;
-  position: absolute;
-  top:480px;
-  line-height: 40px;
+
 }
 .right-collum img{
   border: 2px solid;
