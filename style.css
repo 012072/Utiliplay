@@ -150,6 +150,7 @@ th{
 }
 table{
   border-collapse: collapse;
+
 }
 table, th, td{
   border: 1px solid black;
@@ -161,3 +162,5 @@ div .left-collum{
 color:  #009dc4;
   font-family: Impact, Charcoal, sans-serif; 
 }
+.MMlabreport {
+  text-align: left;
