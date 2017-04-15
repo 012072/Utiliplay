@@ -159,7 +159,7 @@ table, th, td{
   border: 1px solid black;
 }
 div .left-collum{
-  float: right;
+  right: 20px;
 }
 .MNMlabheader{
 color:  #ff3f00;
