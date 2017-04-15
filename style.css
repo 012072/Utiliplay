@@ -1,7 +1,7 @@
 img{
   border:2px solid;
   border-radius: 30px;
-position: absolute;
+position: fixed;
   float:center;
   right:340px;
   border-color: #688D99;
@@ -9,7 +9,7 @@ position: absolute;
 
 }
 img.MMIMG{
-  position: fixed;
+  position: static;
 }
 .app-icon{
   width: 325px;
