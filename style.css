@@ -8,6 +8,9 @@ position: absolute;
   line-height: 50px;
 
 }
+img.MMIMG{
+  position: fixed;
+}
 .app-icon{
   width: 325px;
   height:325px;
