@@ -1,7 +1,7 @@
 img{
   border:2px solid;
   border-radius: 30px;
-position: fixed;
+position: static;
   float:center;
   right:340px;
   border-color: #688D99;
